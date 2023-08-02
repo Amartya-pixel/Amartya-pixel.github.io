@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amartya-pixel.github.io/al-folio/sitemap.xml
+Sitemap: https://amartya-pixel.github.io/sitemap.xml
