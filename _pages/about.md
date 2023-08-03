@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently, I am a final year MS(Research) scholar at the Department of Computer Science and Engineering.
+Currently, I am a final year MS(Research) scholar at the Department of Computer Science and Engineering, IIT Madras. My research interest lies in the broad spectrum of wireless sensing, focussed on radio imaging. Prior to IIT Madras I completed my B.Tech from Government College of Engineering and Leather Technology, Kolkata. 
